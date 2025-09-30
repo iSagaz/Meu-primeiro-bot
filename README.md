@@ -1,2 +1,3 @@
 # Meu-primeiro-bot
-Meu primeiro projeto criado pelo curso da mimo, É um bot que responde perguntas simples como "Qual seu nome" "Qual sua cor favorita" idade etc
+"Este bot interage com o usuario, perguntando nome, idade, e cor favorita de forma divertida
+tecnologia: Python
